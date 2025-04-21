@@ -1,49 +1,72 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productos más vendidos - Regalo Grabado</title>
     <link>https://regalograbado.com/collections/best-selling-products</link>
-    <description>Productos personalizados más vendidos en Regalo Grabado.</description>
+    <atom:link href="https://regalograbado.com" rel="self" type="application/rss+xml"/>
+    <description>Selección de productos personalizados más vendidos en Regalo Grabado.</description>
     <language>es-es</language>
     <lastBuildDate>Mon, 21 Apr 2025 10:56:09 +0200</lastBuildDate>
+
+    <image>
+      <url>https://regalograbado.com/cdn/shop/files/1200-x-600-Meta-Tags-Toolkit.jpg?v=1723040595</url>
+      <title>Regalo Grabado</title>
+      <link>https://regalograbado.com</link>
+    </image>
 
     <item>
       <title>Cubiertos Infantiles Personalizados Jungla</title>
       <link>https://regalograbado.com/products/cubiertos-personalizados-jungla</link>
-      <description>Juego de cubiertos infantiles ZWILLING personalizados con motivos de animales de la jungla. Perfecto para niños a partir de 3 años.</description>
-      <image>https://cdn.shopify.com/s/files/1/0572/8413/2433/files/cubiertos-jungla.jpg</image>
+      <description><![CDATA[
+        <img src="https://regalograbado.com/cdn/shop/files/IMG_5757.jpg?v=1740592037&width=823" alt="Cubiertos Infantiles Personalizados Jungla" width="600" height="600" />
+        Juego de cubiertos infantiles ZWILLING personalizados con motivos de animales de la jungla. Perfecto para niños a partir de 3 años.
+      ]]></description>
+      <guid>https://regalograbado.com/products/cubiertos-personalizados-jungla</guid>
       <pubDate>Mon, 21 Apr 2025 10:56:09 +0200</pubDate>
     </item>
 
     <item>
       <title>Abanicos Personalizados de Madera</title>
       <link>https://regalograbado.com/products/abanicos-personalizados-madera</link>
-      <description>Elegantes abanicos de madera con personalización, ideales como recuerdos de boda o eventos especiales.</description>
-      <image>https://cdn.shopify.com/s/files/1/0572/8413/2433/files/abanico-personalizado.jpg</image>
+      <description><![CDATA[
+        <img src="https://regalograbado.com/cdn/shop/files/IMG_4699.png?v=1740591953&width=823" alt="Abanicos Personalizados de Madera" width="600" height="600" />
+        Elegantes abanicos de madera con personalización, ideales como recuerdos de boda o eventos especiales.
+      ]]></description>
+      <guid>https://regalograbado.com/products/abanicos-personalizados-madera</guid>
       <pubDate>Mon, 21 Apr 2025 10:56:09 +0200</pubDate>
     </item>
 
     <item>
       <title>Navaja Personalizada de Acero y Madera</title>
       <link>https://regalograbado.com/products/navaja-personalizada-acero-madera</link>
-      <description>Navaja con mango de madera y hoja de acero inoxidable, grabada al gusto. Regalo práctico y elegante.</description>
-      <image>https://cdn.shopify.com/s/files/1/0572/8413/2433/files/navaja-personalizada.jpg</image>
+      <description><![CDATA[
+        <img src="https://regalograbado.com/cdn/shop/files/IMG_5542.jpg?v=1740592398&width=823" alt="Navaja Personalizada de Acero y Madera" width="600" height="600" />
+        Navaja con mango de madera y hoja de acero inoxidable, grabada al gusto. Regalo práctico y elegante.
+      ]]></description>
+      <guid>https://regalograbado.com/products/navaja-personalizada-acero-madera</guid>
       <pubDate>Mon, 21 Apr 2025 10:56:09 +0200</pubDate>
     </item>
 
     <item>
       <title>Memoria USB Personalizada con Caja de Madera</title>
       <link>https://regalograbado.com/products/memoria-usb-caja-madera-personalizada</link>
-      <description>Memoria USB con caja de madera personalizada. Elegante presentación y funcionalidad.</description>
-      <image>https://cdn.shopify.com/s/files/1/0572/8413/2433/files/usb-madera.jpg</image>
+      <description><![CDATA[
+        <img src="https://regalograbado.com/cdn/shop/files/IMG_7014.png?v=1740592674&width=823" alt="Memoria USB Personalizada con Caja de Madera" width="600" height="600" />
+        Memoria USB con caja de madera personalizada. Elegante presentación y funcionalidad.
+      ]]></description>
+      <guid>https://regalograbado.com/products/memoria-usb-caja-madera-personalizada</guid>
       <pubDate>Mon, 21 Apr 2025 10:56:09 +0200</pubDate>
     </item>
 
     <item>
       <title>Sacacorchos Profesional Personalizado</title>
       <link>https://regalograbado.com/products/sacacorchos-profesional-personalizado</link>
-      <description>Sacacorchos de acero inoxidable tipo loro con grabado personalizado. Ideal para amantes del vino.</description>
-      <image>https://cdn.shopify.com/s/files/1/0572/8413/2433/files/sacacorchos-personalizado.jpg</image>
+      <description><![CDATA[
+        <img src="https://regalograbado.com/cdn/shop/files/IMG_6152.jpg?v=1740592134&width=823" alt="Sacacorchos Profesional Personalizado" width="600" height="600" />
+        Sacacorchos de acero inoxidable tipo loro con grabado personalizado. Ideal para amantes del vino.
+      ]]></description>
+      <guid>https://regalograbado.com/products/sacacorchos-profesional-personalizado</guid>
       <pubDate>Mon, 21 Apr 2025 10:56:09 +0200</pubDate>
     </item>
 
